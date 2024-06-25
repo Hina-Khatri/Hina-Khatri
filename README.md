@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on innovative projects that push the boundaries of Web & Mobile App Development. I'm particularly keen on opportunities that involve complex J2SE and J2EE integrations.
 
-📫 How to reach me: You can connect with me on [LinkedIn](https://pk.linkedin.com/in/hina-khatri-216671226) or drop me an email at hina.khatri@example.com. Let's transform ideas into reality!
+📫 How to reach me: You can connect with me on [LinkedIn](https://pk.linkedin.com/in/hina-khatri-216671226) or drop me an email at hinakhatrie@gmail.com. Let's transform ideas into reality!
 
 😄 Pronouns: She/Her
 
