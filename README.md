@@ -29,6 +29,12 @@
   - 🌟 Angular
   - ⚛️ React.js
   - 🐘 PHP
+  - 🟦 .NET
+  - **🌐 Node.js**
+- **🛠️ Platforms & CMS**: Expertise in building and managing websites using:
+  - **🌐 WordPress**
+  - **🛍️ Shopify**
+- **📈 SEO**: Implementing effective SEO strategies to improve search engine rankings and drive organic traffic.
 
 ---
 
