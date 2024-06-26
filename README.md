@@ -4,7 +4,7 @@
 
 🌱 I’m currently delving deeper into the realms of CI/CD, WSO2, and ISO8583 Integration to enhance my technical prowess and stay ahead in the dynamic tech landscape.
 
-💞️ I’m looking to collaborate on innovative projects that push the boundaries of Web & Mobile App Development. I'm particularly keen on opportunities that involve complex J2SE and J2EE integrations.
+👀 I’m looking to collaborate on innovative projects that push the boundaries of Web & Mobile App Development. I'm particularly keen on opportunities that involve complex J2SE and J2EE integrations.
 
 📫 How to reach me: You can connect with me on [LinkedIn](https://pk.linkedin.com/in/hina-khatri-216671226) or drop me an email at hinakhatrie@gmail.com. Let's transform ideas into reality!
 
